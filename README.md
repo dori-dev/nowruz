@@ -11,6 +11,6 @@ Open `index.html` with your browser!
 
 Demo of Project: [dori-dev.github.io/nowruz](https://dori-dev.github.io/nowruz/)
 
-Download Source Code: [Click Here](https://github.com/dori-dev/countdown-timer/archive/refs/heads/main.zip)
+Download Source Code: [Click Here](https://github.com/dori-dev/nowruz/archive/refs/heads/main.zip)
 
 My Github Acount: [Click Here](https://github.com/dori-dev/)
